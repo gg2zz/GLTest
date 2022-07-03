@@ -1,0 +1,11 @@
+[
+{
+  "directory": "D:\\PrivateProjects\\GLPlayGround",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Ox", "/fp:fast", "/DGLFW_INCLUDE_NONE", "/IC:\\Users\\13004\\AppData\\Local\\.xmake\\packages\\g\\glfw\\3.3.6\\0f1d7b80c6f84759bc07798549faa20b\\include", "/IC:\\Users\\13004\\AppData\\Local\\.xmake\\packages\\g\\glad\\v0.1.36\\d58ee23747ff411aae74b40986460499\\include", "/DNDEBUG", "/Fod:\\PrivateProjects\\GLPlayGround\\build\\.objs\\GLPlayGround\\windows\\x64\\release\\src\\main.cpp.obj", "src\\main.cpp"],
+  "file": "src\\main.cpp"
+},
+{
+  "directory": "D:\\PrivateProjects\\GLPlayGround",
+  "arguments": ["C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\HostX64\\x64\\cl.exe", "/c", "/EHsc", "/nologo", "/Ox", "/fp:fast", "/DGLFW_INCLUDE_NONE", "/IC:\\Users\\13004\\AppData\\Local\\.xmake\\packages\\g\\glfw\\3.3.6\\0f1d7b80c6f84759bc07798549faa20b\\include", "/IC:\\Users\\13004\\AppData\\Local\\.xmake\\packages\\g\\glad\\v0.1.36\\d58ee23747ff411aae74b40986460499\\include", "/DNDEBUG", "/Fod:\\PrivateProjects\\GLPlayGround\\build\\.objs\\GLPlayGround\\windows\\x64\\release\\src\\Shader.cpp.obj", "src\\Shader.cpp"],
+  "file": "src\\Shader.cpp"
+}]
